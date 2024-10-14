@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .hero-section {
+    background: url("./img/Background.jpeg") no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  .feature-icon {
+    font-size: 3rem;
+    color: rgb(8, 8, 105);
+  }
+  .testimonial {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+    text-align: center;
+  }
+  .row{
+    align-items: center;
+  }
+
+  .card-title{
+    align-content: center;
+  }
+
+  .card-text{
+    align-items: center;
+  }
